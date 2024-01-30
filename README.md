@@ -21,4 +21,4 @@ double Calculate_Diagonal_Through_Cube(); // Returns the Calculated Diagonal thr
 ### 
 
 ### Make
-Running the Makefile within this directory will compile a shared library, you will need a will to have the compiler build the shared library for you. (I Will go over that soon)
+Running the Makefile within this directory will compile a shared library, you will need a will to have the compiler build the shared library for you.
